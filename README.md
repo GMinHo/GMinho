@@ -4,9 +4,9 @@
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,vim" />
   </a>
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="857854a5-91aa-41b6-ae77-3fc2e2022aef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30f01480-c9c7-4f57-bd00-1f001321ab06" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<!--
+<!--<img width="600" height="600" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/509d8aba-be8f-420e-8f94-cc232c0aa710" />
+<img width="1600" height="1600" alt="hashicorp-certified-terraform-associate-003" src="https://github.com/user-attachments/assets/7a37047d-d08b-465d-ba3c-ba2ba493f391" />
+
 **GMinHo/GMinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
