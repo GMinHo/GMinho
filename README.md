@@ -13,22 +13,39 @@
 </p>
 
 ## 프로젝트 / Projects
-[상세내용/Details](https://www.notion.so/26b683c7d943807eb065f1e606d36033?source=copy_link)
 ### 1. Linux
-Rocky Linux 9.5 환경에서 사용자 관리, 디스크 관리, 서버 구성
+Document: 
+Skills : 
+Descripstion : 
+Role :
+
 
 ### 2. Network
-GNS3와 IOU-Web 환경에서 네트워크 구축 및 방화벽 인프라 구축
+Document:
+Skills : 
+Descripstion : 
+Role :
 
 ### 3. Kubernetes
-Ubuntu 환경에서 쿠버네티스 클러스터 관리
+Document:
+Skills : 
+Descripstion : 
+Role :
 
 ### 4. Server Virtualization
-VSphere를 이용한 서버 가상화 구현
+Document:
+Skills : 
+Descripstion : 
+Role :
 
 ### 5. AWS
-AWS VPC 기반 네트워크 환경 구축
-AWS Service 실습
+Document:
+Skills : 
+Descripstion : 
+Role :
 
 ### 6. Terraform
-Terraform을 이용한 AWS Service 이용
+Document:
+Skills : 
+Descripstion : 
+Role :
