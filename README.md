@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Kim Minho
----
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,vim" />
   </a>
 </p>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="857854a5-91aa-41b6-ae77-3fc2e2022aef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30f01480-c9c7-4f57-bd00-1f001321ab06" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **GMinHo/GMinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
