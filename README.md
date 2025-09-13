@@ -19,38 +19,31 @@ AWS DEA-C01 / HashiCorp Terraform Associate 003\
     Skills : \
     Descripstion : \
     Role : 
-    
-    
     ### 2. Network
     Document: \
     Skills : \
     Descripstion : \
     Role :
-    
     ### 3. Kubernetes
     Document: \
     Skills : \
     Descripstion : \
     Role :
-    
     ### 4. Server Virtualization
     Document: \
     Skills : \
     Descripstion : \
     Role :
-    
     ### 5. AWS
     Document: \
     Skills : \
     Descripstion : \
     Role :
-    
     ### 6. Terraform
     Document: \
     Skills : \
     Descripstion : \
     Role :
-
 </details>
 
 
