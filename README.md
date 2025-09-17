@@ -36,5 +36,5 @@ Skills : AWS VPC 기반 네트워크 설계 및 운영, EC2, RDS, S3, Load Balan
 Role : 작업 수행 및 산출물 문서화·시각화, 발표 자료 공유와 피드백 반영
 ### 6. Terraform
 Document: [테라폼 프로젝트](https://github.com/GMinHo/GMinho/blob/main/projects%20files/Terraform_Project.pdf)\
-Skills : Terraform을 활용한 AWS 인프라 구축 및 관리, TF 파일 분석, Terraform 명령어 실행, GitHub/Terraform Cloud 연동, Route 53 도메인 등록 경험\
+Skills : Terraform을 활용한 AWS 인프라 구축 및 관리, TF 파일 분석, Terraform 명령어 실행, Route 53 도메인 등록\
 Role : 작업 절차 수행 및 산출물 문서화·시각화, 발표 자료 공유와 피드백 반영
