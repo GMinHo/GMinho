@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Kim Minho
 
 ## 자격증 / Certificate
-리눅스마스터2급 / 네트워크관리사2급
+리눅스마스터2급 / 네트워크관리사2급\
 AWS DEA-C01 / HashiCorp Terraform Associate 003 / CKA\
 <img width="150" height="auto" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/36163081-9f97-461a-9f72-d27f896fcdb3" />
 <img width="150" height="auto" alt="hashicorp-certified-terraform-associate-003" src="https://github.com/user-attachments/assets/771c2bcf-0001-4af9-bc04-dc473f02ad83" />
